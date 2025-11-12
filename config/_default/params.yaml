@@ -1,32 +1,19 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
 appearance:
   mode: system
-  color: indigo
+  color: blue
 
-# SEO
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: "Hamza Boudhair"
+    description: "Academic CV of Hamza Boudhair — Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, and energy optimization."
+    twitter: "HamzaBoudhair"
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
   verification:
     google: ''
-    baidu: ''
 
-# Site header
 header:
   navbar:
     enable: true
@@ -35,26 +22,23 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Hamza Boudhair'
 
-# Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Hamza Boudhair. Academic CV.'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
-# Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 Jan 2006'
+  time_format: '15:04'
 
-# Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
