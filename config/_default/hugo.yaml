@@ -1,12 +1,8 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Website name
-title: Hugo Academic CV Theme
+title: "Hamza Boudhair — Academic CV"
+
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://hamzaboudhair20-debug.github.io/"
 
 ############################
 ## LANGUAGE
@@ -23,7 +19,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
