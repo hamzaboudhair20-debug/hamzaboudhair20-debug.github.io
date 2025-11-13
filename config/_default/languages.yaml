@@ -1,27 +1,47 @@
-# Languages
-# Default language
-en:
-  languageCode: en-us
-  title: "Hamza Boudhair — Academic CV"
+fr:
+  languageName: Français
+  weight: 1
+  contentDir: content/fr
   params:
-    description: "Academic CV of Hamza Boudhair, Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, and energy optimization."
+    description: "CV académique de Hamza Boudhair"
   menu:
     main:
-      - name: "Bio"
+      - name: "Accueil"
         url: "/"
-        weight: 10
+        weight: 1
+      - name: "Formation"
+        url: "#education"
+        weight: 2
+      - name: "Expérience"
+        url: "#experience"
+        weight: 3
+      - name: "Projets"
+        url: "#projects"
+        weight: 4
+      - name: "Télécharger CV"
+        url: "/files/cv-hamza-boudhair.pdf"
+        weight: 5
+
+en:
+  languageName: English
+  weight: 2
+  contentDir: content/en
+  params:
+    description: "Academic CV of Hamza Boudhair"
+  menu:
+    main:
+      - name: "Home"
+        url: "/"
+        weight: 1
       - name: "Education"
-        url: "/#education"
-        weight: 20
+        url: "#education"
+        weight: 2
       - name: "Experience"
-        url: "/experience/"
-        weight: 30
+        url: "#experience"
+        weight: 3
       - name: "Projects"
-        url: "/projects/"
-        weight: 40
-      - name: "Publications"
-        url: "/publications/"
-        weight: 50
+        url: "#projects"
+        weight: 4
       - name: "Download CV"
-        url: "/uploads/resume.pdf"
-        weight: 60
+        url: "/files/cv-hamza-boudhair.pdf"
+        weight: 5
