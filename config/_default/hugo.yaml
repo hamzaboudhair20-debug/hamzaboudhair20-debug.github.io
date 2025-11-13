@@ -13,9 +13,8 @@ baseURL: "https://hamzaboudhair20-debug.github.io/"
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+
 
 
 ############################
