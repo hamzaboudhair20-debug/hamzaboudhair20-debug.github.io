@@ -1,28 +1,50 @@
 main:
-  - name: Bio
-    url: /
-    weight: 10
+  - name: "Accueil"
+    url: "/#about"
+    weight: 1
+    lang: fr
+  - name: "Formation"
+    url: "/#education"
+    weight: 2
+    lang: fr
+  - name: "Expérience"
+    url: "/#experience"
+    weight: 3
+    lang: fr
+  - name: "Projets"
+    url: "/#projects"
+    weight: 4
+    lang: fr
+  - name: "Publications"
+    url: "/#publications"
+    weight: 5
+    lang: fr
+  - name: "Télécharger CV"
+    url: "/files/cv-hamza-fr.pdf"
+    weight: 6
+    lang: fr
 
-  - name: Education
-    url: /#education
-    weight: 20
-
-  - name: Experience
-    url: /experience/
-    weight: 30
-
-  - name: Projects
-    url: /projects/
-    weight: 40
-
-  - name: Publications
-    url: /publications/
-    weight: 50
-
-  - name: Certifications
-    url: /certifications/
-    weight: 60
-
-  - name: Download CV
-    url: /uploads/resume.pdf
-    weight: 70
+  - name: "Home"
+    url: "/#about"
+    weight: 1
+    lang: en
+  - name: "Education"
+    url: "/#education"
+    weight: 2
+    lang: en
+  - name: "Experience"
+    url: "/#experience"
+    weight: 3
+    lang: en
+  - name: "Projects"
+    url: "/#projects"
+    weight: 4
+    lang: en
+  - name: "Publications"
+    url: "/#publications"
+    weight: 5
+    lang: en
+  - name: "Download CV"
+    url: "/files/cv-hamza-en.pdf"
+    weight: 6
+    lang: en
