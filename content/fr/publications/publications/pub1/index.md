@@ -1,1 +1,20 @@
+---
+title: "Modélisation et analyse d’un système énergétique (Document PDF)"
+summary: "Rapport académique disponible en téléchargement."
+authors:
+  - "Hamza Boudhair"
+date: 2024-01-01
+publication_types: ["report"]
+featured: false
+url_pdf: "https://drive.google.com/file/d/1wHoX9_C7NutpYm6cFOodQTZFUfvCS2LL/view?usp=sharing"
+abstract: >
+  Ce document présente une étude détaillée portant sur des concepts avancés
+  liés aux systèmes énergétiques. Il inclut des analyses techniques,
+  méthodologiques et technologiques appliquées dans le cadre d’un travail
+  académique.
+---
+
+Vous pouvez télécharger la version PDF complète du document via le lien ci-dessous :
+
+➡️ [Télécharger le document](https://drive.google.com/file/d/1wHoX9_C7NutpYm6cFOodQTZFUfvCS2LL/view?usp=sharing)
 
