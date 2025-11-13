@@ -1,13 +1,6 @@
-fr:
-  languageName: Français
-  weight: 1
-  contentDir: content/fr
-  params:
-    description: "CV académique de Hamza Boudhair"
-
 en:
   languageName: English
-  weight: 2
+  weight: 1
   contentDir: content/en
   params:
-    description: "Hamza Boudhair Academic CV"
+    description: "Academic CV of Hamza Boudhair"
