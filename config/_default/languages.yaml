@@ -4,44 +4,10 @@ fr:
   contentDir: content/fr
   params:
     description: "CV académique de Hamza Boudhair"
-  menu:
-    main:
-      - name: "Accueil"
-        url: "/"
-        weight: 1
-      - name: "Formation"
-        url: "#education"
-        weight: 2
-      - name: "Expérience"
-        url: "#experience"
-        weight: 3
-      - name: "Projets"
-        url: "#projects"
-        weight: 4
-      - name: "Télécharger CV"
-        url: "/files/cv-hamza-boudhair.pdf"
-        weight: 5
 
 en:
   languageName: English
   weight: 2
   contentDir: content/en
   params:
-    description: "Academic CV of Hamza Boudhair"
-  menu:
-    main:
-      - name: "Home"
-        url: "/"
-        weight: 1
-      - name: "Education"
-        url: "#education"
-        weight: 2
-      - name: "Experience"
-        url: "#experience"
-        weight: 3
-      - name: "Projects"
-        url: "#projects"
-        weight: 4
-      - name: "Download CV"
-        url: "/files/cv-hamza-boudhair.pdf"
-        weight: 5
+    description: "Hamza Boudhair Academic CV"
